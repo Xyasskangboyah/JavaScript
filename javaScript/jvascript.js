@@ -15,10 +15,3 @@ console.log(name +' '+ lastname +" " + umur);
 var alas = 5
 var tinggi = 7
 console.log(1/2 * alas * tinggi);
-
-const age = 5;
-if (age >= 3) {
-    console.log("Bayar Tiket");
-}
-
-console.log(x < y);
