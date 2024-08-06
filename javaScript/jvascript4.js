@@ -37,7 +37,11 @@ if (pendaftaran === true) {
     console.log("Dapat mengikuti Kursus");
   } else {
     console.log("Tidak dapat mengikuti Kursus");
-  }
+  }  
 } else {
   console.log("Tidak dapat mengikuti Kursus");
+}
+
+for (let i = 1;1<= 10 ; 1++ ) {
+  console.log(1); 1,2,3,4,5,6,7,8,9,10
 }
