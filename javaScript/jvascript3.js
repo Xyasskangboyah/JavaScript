@@ -1,9 +1,9 @@
 // nomor 1
-var usiaPengunjung = 5;
+var usiaPengunjung = 2;
 
-if (usiaPengunjung > 5) {
+if (usiaPengunjung >= 5) {
   console.log("Pengunjung harus membayar tiket penuh.");
-} else if (usiaPengunjung >= 2 && usiaPengunjung <= 5) {
+} else if (usiaPengunjung > 2 && usiaPengunjung < 5) {
   console.log("Pengunjung harus membayar setengah harga tiket.");
 } else {
   console.log("Pengunjung di bawah 2 tahun tidak boleh masuk.");

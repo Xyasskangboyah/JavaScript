@@ -1,4 +1,4 @@
-var nilaiUjian = 92;
+var nilaiUjian = 60;
 var Kehadiran = 10;
 var TotalPertemuan = 25;
 var lulus = (Kehadiran / TotalPertemuan) * 100;
@@ -42,6 +42,6 @@ if (pendaftaran === true) {
   console.log("Tidak dapat mengikuti Kursus");
 }
 
-for (let i = 1;1<= 10 ; 1++ ) {
-  console.log(1); 1,2,3,4,5,6,7,8,9,10
-}
+// for (let i = 1;1<= 10 ; i++ ) {
+//   console.log(1); 1,2,3,4,5,6,7,8,9,10
+// }
