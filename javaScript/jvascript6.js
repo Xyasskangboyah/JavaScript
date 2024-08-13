@@ -26,3 +26,6 @@ console.log(number)
 
 // nomer7
 console.log(number.length)
+
+let arr = [10, 20, 30, 40];
+console.log(arr[2]);
