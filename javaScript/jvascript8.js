@@ -131,13 +131,11 @@ class Manager extends Employee{
   }
 }
 
-const Orang = new person("ilyas")
-console.log(Orang.introduce());
+const Orang2 = new Person("ilyas")
+console.log(Orang2.introduce());
 
 const Azka = new Employee("ilyas", "ustadz")
 console.log(Azka.introduce());
 
 const Hammam = new Manager ("ilyas", "ustadz")
 console.log(Hammam.introduce());
-
-
