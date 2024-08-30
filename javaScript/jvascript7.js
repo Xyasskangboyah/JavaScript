@@ -25,7 +25,7 @@ obj.umur = obj.umur+5;
 console.log(obj.umur);
 
 // nomer3
-delete obj.kota;
+delete obj.kota;    
 console.log(obj.kota)
 
 // latihan 2
