@@ -1,5 +1,4 @@
 // latihan 1
-
 // nomer1
 const person = {
     name: "ilyas",

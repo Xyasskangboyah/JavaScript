@@ -28,11 +28,11 @@ switch (hari) {
 
 for (let i = 1; i <= 15; i++) {
   if (i % 3 == 0 && i % 5 == 0) {
-    console.log("FizzBuzz");
+    console.log("FizzBuzz", i);
   } else if (i % 3 == 0) {
-    console.log("fizz");
+    console.log("fizz", i);
   } else if (i % 5 == 0) {
-    console.log("buzz");
+    console.log("buzz", i);
   } else {
     console.log(i);
   }
@@ -41,11 +41,4 @@ for (let i = 1; i <= 10; i++) {
     if (i % 2 == 0) {
         console.log(i);
     }
-}
-
-for (i = 1; i <= 15; i++) {
-  if (i % 3 == 0) {
-    console.log("multiple of 3");
-  }
- 
 }

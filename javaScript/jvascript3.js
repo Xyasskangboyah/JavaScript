@@ -30,8 +30,8 @@ if (bilangan >0) {
 
 // nomer 4
 
-const x = -6;
-const y = 5;
+const x = 6;
+const y = -5;
 
 if (x > 0 && y > 0) {
   console.log("Kanan atas");
@@ -44,7 +44,7 @@ if (x > 0 && y > 0) {
 }
 
 // nomer 5
-const totalBelanja = 100;
+const totalBelanja = 1300;
 
 let diskon = 0;
 

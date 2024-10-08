@@ -7,7 +7,7 @@ identitas[1] = "Jakarta";
 console.log(identitas)
 
 // nomer3
-identitas.splice(1, 1);
+identitas.splice(1, 1);   
 console.log(identitas);
 
 // nomer4
@@ -26,6 +26,5 @@ console.log(number)
 
 // nomer7
 console.log(number.length)
-
 let arr = [10, 20, 30, 40];
 console.log(arr[2]);
